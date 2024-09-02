@@ -1,0 +1,90 @@
+Initial maxHeapDebt contents: [{"username":"harsh","amount":1000}]
+Initial maxHeapCredit contents: [{"username":"lav","amount":1000}]
+credit {"username":"lav","amount":1000}
+debit: {"username":"harsh","amount":1000}
+added: {"from":"harsh","to":"lav","amount":1000}
+Array: []
+Initial maxHeapDebt contents: [{"username":"sak","amount":1000}]
+Initial maxHeapCredit contents: [{"username":"lav","amount":1000}]
+credit {"username":"lav","amount":1000}
+debit: {"username":"sak","amount":1000}
+added: {"from":"sak","to":"lav","amount":1000}
+Array: []
+Initial maxHeapDebt contents: [{"username":"lav","amount":1000},{"username":"sak","amount":1000}]
+Initial maxHeapCredit contents: [{"username":"harsh","amount":2000}]
+credit {"username":"harsh","amount":2000}
+debit: {"username":"lav","amount":1000}
+added: {"from":"lav","to":"harsh","amount":1000}
+credit {"username":"harsh","amount":1000}
+debit: {"username":"sak","amount":1000}
+added: {"from":"sak","to":"harsh","amount":1000}
+Array: []
+Initial maxHeapDebt contents: [{"username":"lav","amount":1000}]
+Initial maxHeapCredit contents: [{"username":"harsh","amount":1000}]
+credit {"username":"harsh","amount":1000}
+debit: {"username":"lav","amount":1000}
+added: {"from":"lav","to":"harsh","amount":1000}
+Array: []
+Initial maxHeapDebt contents: []
+Initial maxHeapCredit contents: []
+Array: []
+Initial maxHeapDebt contents: [{"username":"harsh","amount":10000}]
+Initial maxHeapCredit contents: [{"username":"lav","amount":10000}]
+credit {"username":"lav","amount":10000}
+debit: {"username":"harsh","amount":10000}
+added: {"from":"harsh","to":"lav","amount":10000}
+Array: []
+Initial maxHeapDebt contents: [{"username":"sak","amount":20000}]
+Initial maxHeapCredit contents: [{"username":"lav","amount":10000},{"username":"harsh","amount":10000}]
+credit {"username":"lav","amount":10000}
+debit: {"username":"sak","amount":20000}
+added: {"from":"sak","to":"lav","amount":10000}
+credit {"username":"harsh","amount":10000}
+debit: {"username":"sak","amount":10000}
+added: {"from":"sak","to":"harsh","amount":10000}
+Array: []
+Initial maxHeapDebt contents: [{"username":"lav","amount":20000},{"username":"sak","amount":20000}]
+Initial maxHeapCredit contents: [{"username":"harsh","amount":40000}]
+credit {"username":"harsh","amount":40000}
+debit: {"username":"lav","amount":20000}
+added: {"from":"lav","to":"harsh","amount":20000}
+credit {"username":"harsh","amount":20000}
+debit: {"username":"sak","amount":20000}
+added: {"from":"sak","to":"harsh","amount":20000}
+Array: []
+Initial maxHeapDebt contents: [{"username":"sak","amount":55000}]
+Initial maxHeapCredit contents: [{"username":"harsh","amount":40000},{"username":"lav","amount":15000}]
+credit {"username":"harsh","amount":40000}
+debit: {"username":"sak","amount":55000}
+added: {"from":"sak","to":"harsh","amount":40000}
+credit {"username":"lav","amount":15000}
+debit: {"username":"sak","amount":15000}
+added: {"from":"sak","to":"lav","amount":15000}
+Array: []
+Initial maxHeapDebt contents: [{"username":"sak","amount":45000}]
+Initial maxHeapCredit contents: [{"username":"harsh","amount":30000},{"username":"lav","amount":15000}]
+credit {"username":"harsh","amount":30000}
+debit: {"username":"sak","amount":45000}
+added: {"from":"sak","to":"harsh","amount":30000}
+credit {"username":"lav","amount":15000}
+debit: {"username":"sak","amount":15000}
+added: {"from":"sak","to":"lav","amount":15000}
+Array: []
+Initial maxHeapDebt contents: [{"username":"sak","amount":20000},{"username":"lav","amount":10000}]
+Initial maxHeapCredit contents: [{"username":"harsh","amount":30000}]
+credit {"username":"harsh","amount":30000}
+debit: {"username":"sak","amount":20000}
+added: {"from":"sak","to":"harsh","amount":20000}
+credit {"username":"harsh","amount":10000}
+debit: {"username":"lav","amount":10000}
+added: {"from":"lav","to":"harsh","amount":10000}
+Array: []
+Initial maxHeapDebt contents: [{"username":"lav","amount":10000},{"username":"sak","amount":10000}]
+Initial maxHeapCredit contents: [{"username":"harsh","amount":20000}]
+credit {"username":"harsh","amount":20000}
+debit: {"username":"lav","amount":10000}
+added: {"from":"lav","to":"harsh","amount":10000}
+credit {"username":"harsh","amount":10000}
+debit: {"username":"sak","amount":10000}
+added: {"from":"sak","to":"harsh","amount":10000}
+Array: []
